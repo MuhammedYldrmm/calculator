@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Condıtıon\bin\Debug\net7.0\Condıtıon.exe
+C:\Users\HP\Desktop\Condıtıon\bin\Debug\net7.0\Condıtıon.deps.json
+C:\Users\HP\Desktop\Condıtıon\bin\Debug\net7.0\Condıtıon.runtimeconfig.json
+C:\Users\HP\Desktop\Condıtıon\bin\Debug\net7.0\Condıtıon.dll
+C:\Users\HP\Desktop\Condıtıon\bin\Debug\net7.0\Condıtıon.pdb
+C:\Users\HP\Desktop\Condıtıon\obj\Debug\net7.0\Condıtıon.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Condıtıon\obj\Debug\net7.0\Condıtıon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Condıtıon\obj\Debug\net7.0\Condıtıon.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Condıtıon\obj\Debug\net7.0\Condıtıon.AssemblyInfo.cs
+C:\Users\HP\Desktop\Condıtıon\obj\Debug\net7.0\Condıtıon.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Condıtıon\obj\Debug\net7.0\Condıtıon.dll
+C:\Users\HP\Desktop\Condıtıon\obj\Debug\net7.0\refint\Condıtıon.dll
+C:\Users\HP\Desktop\Condıtıon\obj\Debug\net7.0\Condıtıon.pdb
+C:\Users\HP\Desktop\Condıtıon\obj\Debug\net7.0\Condıtıon.genruntimeconfig.cache
+C:\Users\HP\Desktop\Condıtıon\obj\Debug\net7.0\ref\Condıtıon.dll

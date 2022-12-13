@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Condition 2\bin\Debug\net7.0\Condition 2.exe
+C:\Users\HP\Desktop\Condition 2\bin\Debug\net7.0\Condition 2.deps.json
+C:\Users\HP\Desktop\Condition 2\bin\Debug\net7.0\Condition 2.runtimeconfig.json
+C:\Users\HP\Desktop\Condition 2\bin\Debug\net7.0\Condition 2.dll
+C:\Users\HP\Desktop\Condition 2\bin\Debug\net7.0\Condition 2.pdb
+C:\Users\HP\Desktop\Condition 2\obj\Debug\net7.0\Condition 2.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Condition 2\obj\Debug\net7.0\Condition 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Condition 2\obj\Debug\net7.0\Condition 2.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Condition 2\obj\Debug\net7.0\Condition 2.AssemblyInfo.cs
+C:\Users\HP\Desktop\Condition 2\obj\Debug\net7.0\Condition 2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Condition 2\obj\Debug\net7.0\Condition 2.dll
+C:\Users\HP\Desktop\Condition 2\obj\Debug\net7.0\refint\Condition 2.dll
+C:\Users\HP\Desktop\Condition 2\obj\Debug\net7.0\Condition 2.pdb
+C:\Users\HP\Desktop\Condition 2\obj\Debug\net7.0\Condition 2.genruntimeconfig.cache
+C:\Users\HP\Desktop\Condition 2\obj\Debug\net7.0\ref\Condition 2.dll
